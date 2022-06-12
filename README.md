@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lars
-- 👀 I’m interested in Fivem Servers
-- 🌱 I’m currently learning Lua, HTML, CSS
-- 📫 How to reach me Discord: @Lxrs#0001
+- 👀 I’m Currently learning: Javascript, HTML, CSS, Lua
+- 🌱 I'm 13, Live in The Netherlands, And i do developing as a hobby.
+- 📫 You can contact me on discord: Lxrs#0001
 
 <!---
 larsscripts/larsscripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
