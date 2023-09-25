@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lars
-- 👀 I’m Currently learning: Javascript, HTML, CSS, Lua
-- 🌱 I'm 13, Live in The Netherlands, And i do developing as a hobby.
+- 👀 I’m currently learning: HTML, CSS, Javascript, ReactJS
+- 🌱 I'm 14 years old. And im from the Netherlands
