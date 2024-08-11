@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lars
-- 👀 I’m currently learning: HTML, CSS, Javascript, NextJS, Java
+- 👀 I’m currently learning: HTML, CSS, Javascript, Java
 - 🌱 I'm 15 years old. And im from the Netherlands
